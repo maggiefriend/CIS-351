@@ -1,4 +1,4 @@
-
+#3 String exercises
 # A. donuts
 def donuts(count):
     if count >= 10:
